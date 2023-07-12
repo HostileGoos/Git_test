@@ -1,2 +1,2 @@
 # Git_test
-Learning gitHun
+Learning gitHub
